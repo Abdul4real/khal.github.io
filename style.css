@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:black;
+    margin:auto;
+    background:white;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-bottom: 183px;
+}
+
+footer {
+    text-align: -webkit-center;
+    margin-top: 31px;
+    margin-bottom: 20px;
+ }
+
+.gameCanvas {
+        border: 1px solid black;
+     }
+
+    #gameCanvas {
+        display: block;
+        margin: 0 auto;
+    }
+#resetSpeedButton,
+#resetScoreButton {
+        margin-top: 10px;
+    }
